@@ -1,7 +1,7 @@
 function basicTeenager(age) {
-  if ("You are a teenager"  if the age is between 13-19:) {
+  if (If the age is between 13 and 19 it should return "You are a teenager!") {
     // condition is false hence code is not executed
-} else if ("You are not a teenager" if the age is not between 13-19:) {
+} else if (Otherwise, the function should return "You are not a teenager") {
   // execute this code if `conditionToTest1`statement is falsey AND `conditionToTest2` is truthy
 }
 
